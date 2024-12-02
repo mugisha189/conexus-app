@@ -69,3 +69,6 @@ src/assets/promotional/about/android/*.png
 
 package-lock.json
 bun.lockb
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
